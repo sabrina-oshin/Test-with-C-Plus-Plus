@@ -1,4 +1,4 @@
-// Pronlem 02: Read 3 numbers from stdin and print their sum to stdout.
+// Problem 02: Read 3 numbers from stdin and print their sum to stdout.
 // The code starts here:
 
 #include <iostream>

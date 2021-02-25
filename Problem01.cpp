@@ -1,4 +1,4 @@
-// Pronlem 01: Printing Hello World
+// Problem 01: Printing Hello World
 // The code starts here:
 
 #include <iostream>
