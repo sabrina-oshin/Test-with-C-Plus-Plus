@@ -30,3 +30,4 @@ cout << fixed << d << endl;        // using fixed helps to keep the number intac
 return 0;
 }
 
+
