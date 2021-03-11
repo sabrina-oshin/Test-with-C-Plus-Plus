@@ -1,6 +1,6 @@
 // Problem 05:
-//Input will contain four integers a,b,c,d one per line
-//Return the greatest of the four integers.
+// Input will contain four integers a,b,c,d one per line
+// Return the greatest of the four integers.
 // The code starts here:
 
 #include <iostream>
